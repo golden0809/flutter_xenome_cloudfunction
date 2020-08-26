@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "xenome-mobile",
+    "backendapp": "xenome-mobile",
+    "backendnodeapp": "xenome-mobile",
+    "testapp": "xenome-mobile"
+  }
+}
